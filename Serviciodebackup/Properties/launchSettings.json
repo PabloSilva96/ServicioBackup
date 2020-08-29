@@ -1,0 +1,10 @@
+﻿{
+  "profiles": {
+    "Servicio_de_backup": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DOTNET_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}

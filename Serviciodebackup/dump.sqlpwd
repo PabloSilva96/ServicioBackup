@@ -1,0 +1,5 @@
+[mysqldump]
+host = ip
+port = 3306
+user = 
+password = 
